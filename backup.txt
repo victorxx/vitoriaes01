@@ -107,7 +107,9 @@ footer {
 /* Posições individuais */
 #ads1 {
   left: 20px;  /* canto inferior esquerdo */
+  
 }
+
 
 #ads2 {
   right: 20px; /* canto inferior direito */
@@ -125,10 +127,10 @@ footer {
     transform: translateX(-50%);
   }
   #ads1 {
-    bottom: 80px;
+    bottom: 300px;
   }
   #ads2 {
-    bottom: 20px;
+    bottom: -20px;
   }
 }
 
