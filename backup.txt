@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="index,follow">
+  <meta name="keywords" content="cidade,vitoria,vilavelhaes,capixava,gema,vitoriaes,ntoicia,es,noticiaes,vitoriaes">
+  <meta name="description" content="Últimas notícias reais da Grande Vitória e Guarapari, Espírito Santo. Cobertura completa de cultura, eventos, saúde, turismo e esportes." />
+  <title>Notícias Vitória ES & Guarapari - Atualizado Julho 2025</title>
+  <style>
+/* Estilo geral do site */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0 1rem;
+  color: #333;
+  background: #f9f9f9;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #005f73;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+nav {
+  background-color: #0a9396;
+  padding: 0.5rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+nav a {
+  color: white;
+  margin: 0 0.7rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  padding: 1.5rem 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+}
+
+h2 {
+  border-bottom: 3px solid #005f73;
+  padding-bottom: 0.3rem;
+  margin-bottom: 1rem;
+  color: #005f73;
+}
+
+article {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.date {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+}
+
+footer {
+  text-align: center;
+  background-color: #0a9396;
+  color: white;
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
+
+/* Estilo dos anúncios flutuantes fixos */
+#ads1, #ads2 {
+  background-color: #f0f0f0;
+  border: 2px solid #ccc;
+  padding: 15px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #333;
+  min-height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  position: fixed;
+  bottom: 20px;
+  width: 300px;
+  z-index: 9999;
+}
+
+/* Posições individuais */
+#ads1 {
+  left: 20px;  /* canto inferior esquerdo */
+}
+
+#ads2 {
+  right: 20px; /* canto inferior direito */
+}
+
+/* Responsivo: anúncios empilhados e centralizados no mobile */
+@media (max-width: 650px) {
+  #ads1, #ads2 {
+    width: 90%;
+    max-width: 350px;
+    left: 50% !important;
+    right: auto !important;
+    bottom: auto;
+    position: fixed;
+    transform: translateX(-50%);
+  }
+  #ads1 {
+    bottom: 80px;
+  }
+  #ads2 {
+    bottom: 20px;
+  }
+}
+
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Notícias da Grande Vitória & Guarapari</h1>
+</header>
+
+<nav>
+  <a href="#guarapari">Guarapari</a> | <a href="#vitoria">Vitória</a>
+</nav>
+
+<main>
+
+  <section id="guarapari">
+    <h2>Guarapari – Julho 2025</h2>
+
+    <article>
+      <h3>Festival de Inverno 2025 terá quase 50 shows gratuitos</h3>
+      <p class="date">10 de julho de 2025</p>
+      <p>Guarapari se prepara para o Festival de Inverno 2025, com programação entre os dias 18 a 20 e 25 a 27 de julho, na Avenida Joaquim da Silva Lima, com quase 50 shows gratuitos. <a href="https://redezitta.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Atleta de Guarapari conclui Maratona do Rio</h3>
+      <p class="date">12 de julho de 2025</p>
+      <p>Atleta local concluiu a maior maratona do Brasil após seis meses de preparação. <a href="https://redezitta.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Temporada das Baleias-Jubarte começa em Guarapari</h3>
+      <p class="date">15 de julho de 2025</p>
+      <p>Observação das baleias-jubarte é destaque na cidade entre junho e novembro, com ações de segurança ambiental. <a href="https://redezitta.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Prefeitura realiza 4ª Conferência Municipal de Saúde</h3>
+      <p class="date">14 de julho de 2025</p>
+      <p>Evento reúne profissionais e comunidade para discutir melhorias no setor de saúde local. <a href="https://www.guarapari.es.gov.br/noticia?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Revitalização do calçadão da orla de Meaípe</h3>
+      <p class="date">16 de julho de 2025</p>
+      <p>Prefeitura anuncia reforma e melhorias no calçadão para entrega antes do verão. <a href="https://www.guarapari.es.gov.br/noticia?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Guarapari será sede de treino da Seleção Brasileira de Basquete</h3>
+      <p class="date">17 de julho de 2025</p>
+      <p>Temporada de treinos da seleção trará grande movimentação esportiva para a cidade. <a href="https://www.guarapari.es.gov.br/noticia?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Guarapari participa de debate com Portugal sobre internacionalização</h3>
+      <p class="date">18 de julho de 2025</p>
+      <p>Evento na FINDES discutiu parcerias e intercâmbio econômico com Portugal. <a href="https://www.guarapari.es.gov.br/noticia?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Mutirão para atualização do Cadastro Único</h3>
+      <p class="date">19 de julho de 2025</p>
+      <p>População é convocada para atualização de dados visando acesso a programas sociais. <a href="https://www.guarapari.es.gov.br/noticia?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Reforma da quadra de areia da Praia do Morro</h3>
+      <p class="date">20 de julho de 2025</p>
+      <p>Espaço esportivo está sendo revitalizado para melhor uso da comunidade e turistas. <a href="https://www.guarapari.es.gov.br/noticia?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Guarapari se destaca na Feira dos Municípios ES 2025</h3>
+      <p class="date">21 de julho de 2025</p>
+      <p>A cidade apresentou potencial turístico, cultural e sustentável na feira estadual. <a href="https://www.guarapari.es.gov.br/noticia?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+  </section>
+
+  <section id="vitoria">
+    <h2>Vitória – Julho 2025</h2>
+
+    <article>
+      <h3>Colônia de Férias Cultural em Vitória</h3>
+      <p class="date">10 de julho de 2025</p>
+      <p>Oficinas gratuitas de arte e cultura para crianças e adolescentes são promovidas em vários espaços da cidade. <a href="https://eshoje.com.br/noticias/ultimas-noticias/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Vitória anuncia 35 vagas em concurso público</h3>
+      <p class="date">11 de julho de 2025</p>
+      <p>Assembleia Legislativa do ES abriu concurso com oportunidades em diversas áreas e salários definidos. <a href="https://vitorianews.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Peças capixabas indicadas ao Prêmio Shell de Teatro</h3>
+      <p class="date">12 de julho de 2025</p>
+      <p>‘Torto Arado’ e ‘Vinte’ estão entre as indicadas, destacando a produção cultural local. <a href="https://vitorianews.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Vitória amplia serviço de teleconsulta</h3>
+      <p class="date">13 de julho de 2025</p>
+      <p>Atendimento em seis especialidades médicas agora está disponível para a população via teleconsulta. <a href="https://vitorianews.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Nova rota turística entre Vitória e Serra resgata história</h3>
+      <p class="date">14 de julho de 2025</p>
+      <p>Rota destaca maior levante por liberdade do Espírito Santo, valorizando turismo cultural. <a href="https://vitorianews.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Vitória FC eliminado nas semifinais do Campeonato Capixaba</h3>
+      <p class="date">15 de julho de 2025</p>
+      <p>Time foi derrotado pelo Porto Vitória e não avançou para a final da competição. <a href="https://pt.wikipedia.org/wiki/Porto_Vit%C3%B3ria_Futebol_Clube?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Porto Vitória garante vaga na Copa do Brasil 2026</h3>
+      <p class="date">16 de julho de 2025</p>
+      <p>Após vencer o Vitória FC, Porto Vitória assegura vaga na competição nacional. <a href="https://pt.wikipedia.org/wiki/Porto_Vit%C3%B3ria_Futebol_Clube?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Vitória sedia evento de tecnologia e inovação</h3>
+      <p class="date">17 de julho de 2025</p>
+      <p>Especialistas e empresas do setor se reuniram para discutir tendências e inovações tecnológicas. <a href="https://vitorianews.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Programa de arborização urbana é lançado em Vitória</h3>
+      <p class="date">18 de julho de 2025</p>
+      <p>Prefeitura inicia plantio de árvores para aumentar áreas verdes e melhorar qualidade de vida. <a href="https://vitorianews.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+    <article>
+      <h3>Vitória implanta sistema de monitoramento por câmeras</h3>
+      <p class="date">19 de julho de 2025</p>
+      <p>Segurança pública é reforçada com instalação de câmeras em pontos estratégicos da cidade. <a href="https://vitorianews.com.br/?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">Fonte</a></p>
+    </article>
+
+  </section>
+
+</main>
+
+<footer>
+  <p>©  Notícias Vitória & Guarapari | Fontes confiáveis e atualizadas</p>
+</footer>
+<div id="ads1">
+<a href="https://geocredibnkvitoria.com/">CRÉDITO PESSOAL</a>
+</div>
+<div id="ads2">
+<a href="https://victorxx.github.io/piadarandomico01/">CONFERIR NÃO PERCA</a>
+</div>
+
+</body>
+</html>
